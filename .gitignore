@@ -1,0 +1,8 @@
+# Directories #
+###############
+bin/
+obj/
+TestResults/
+#
+*.cache
+*.[Cc]ache
